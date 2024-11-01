@@ -1,3 +1,4 @@
+![logo](https://github.com/shafin92/shafin92/blob/main/shahanurrashid525%40gmail.com.png)
 <h1 align="center">Hi 👋, I'm Shahanur Rashid Shafin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
